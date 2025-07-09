@@ -55,7 +55,7 @@ The Stream struct stores:
 
 - Native payment helper: Checks necessary condition related to native payment.
 - Token (ERC20) payment helper: Checks necessary conditions (e.g. `allowance`) for utilizing another token.
-- Save steam details: Stores all streams details into a special account for easier tracking and mangement. 
+- Save stream details: Stores all stream details into a special account for easier tracking and management. 
 
 ### Helper for redeem_stream
 
